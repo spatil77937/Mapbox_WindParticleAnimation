@@ -1,0 +1,12 @@
+.MuiToolbar-root{
+    min-height: 48px !important;
+}
+.MuiInputBase-root{
+    margin-top: 0 !important;
+}
+.MuiFormLabel-root{
+    margin-top: -8px !important;
+}
+.MuiSelect-select{
+    padding: 8.5px 14px !important;
+}
